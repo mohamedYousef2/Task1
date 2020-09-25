@@ -1,0 +1,21 @@
+.window{
+    width: 400px;
+    height: 400px;
+}
+.bigimg{
+    width: 400px;
+    height: 400px;
+    display: block;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.img{
+    display: inline-block;
+    width: 198px;
+    height: 150px;
+}
+.form{
+    margin: 50px auto;
+    width: 400px;
+    height: 800px;
+}
